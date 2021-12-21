@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "hs-admin-t",
+    "admin": "hs-admin-t"
+  },
+  "targets": {}
+}

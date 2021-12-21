@@ -1,0 +1,8 @@
+[filter "lfs"]
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
+[user]
+	name = sergioG59
+	email = 80870769+sergioG59@users.noreply.github.com
